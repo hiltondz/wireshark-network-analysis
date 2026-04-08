@@ -23,3 +23,16 @@ To capture and analyze network traffic using Wireshark.
 - How data flows across a network
 - How to identify different types of traffic
 - Basic network security concepts
+
+
+What DNS does (simple: converts names → IP)
+
+Example:
+“My system queried google.com to find its IP address”
+
+
+Why TLS matters (keeps data private)
+
+Example:
+“Traffic to YouTube was encrypted using TLS, preventing attackers from seeing the content”
+
