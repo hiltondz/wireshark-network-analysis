@@ -60,4 +60,4 @@ This project demonstrates how network traffic can be captured and analyzed using
 
 * Network traffic analysis
 * Understanding of core protocols (DNS, TCP, TLS)
-* Basic cybersecurity analysis skills
+* Basic cybersecurity analysis skills.
